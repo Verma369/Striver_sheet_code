@@ -1,2 +1,2 @@
-# Dsa_codes
-My submissions in Leet Code , Code studios, GFG
+# Dsa_code
+My submissions in Striver's SDE sheet with explanation
